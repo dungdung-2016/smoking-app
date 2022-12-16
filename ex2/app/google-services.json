@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:652645728583:android:153fd3e89b1c62f2574c62",
         "android_client_info": {
-          "package_name": "com.example.ex2"
+          "package_name": "com.seung.ex2"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "652645728583-27vqn4c4v3db80r0d0dmaal48ajakga5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.ex2",
+            "package_name": "com.seung.ex2",
             "certificate_hash": "7ac42651d78a4e9af2427fd52e07ea6eb5855a67"
           }
         },
